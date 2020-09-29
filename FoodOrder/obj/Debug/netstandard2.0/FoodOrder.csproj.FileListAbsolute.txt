@@ -1,0 +1,16 @@
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\bin\Debug\netstandard2.0\FoodOrder.deps.json
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\bin\Debug\netstandard2.0\FoodOrder.dll
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.csprojAssemblyReference.cache
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.AssemblyInfoInputs.cache
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.AssemblyInfo.cs
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\bin\Debug\netstandard2.0\ref\FoodOrder.dll
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\bin\Debug\netstandard2.0\FoodOrder.pdb
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\View\LoginView.xaml.g.cs
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\View\ProductsView.xaml.g.cs
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.csproj.CoreCompileInputs.cache
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\XamlC.stamp
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.dll
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\ref\FoodOrder.dll
+E:\VisualStudioXamarinProjects\FoodOrder\FoodOrder\FoodOrder\obj\Debug\netstandard2.0\FoodOrder.pdb
